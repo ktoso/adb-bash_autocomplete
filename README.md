@@ -20,8 +20,11 @@ $
 Install How-To
 --------------
 Installation is fairly simple, just make sure you have bash-completition installed and then:
+
 ```
 ktoso $ su - 
 root # cd /etc/bash_completion.d/
-root # wget 
+root # wget https://github.com/ktoso/adb-bash_autocomplete/raw/master/adb
+root # exit
+ktoso $ echo "done!"
 ```
