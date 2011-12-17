@@ -19,7 +19,14 @@ $
 
 Install How-To
 --------------
-Installation is fairly simple, just make sure you have bash-completition installed and then:
+The installation is super simple, just make sure you have bash-completition and run this command:
+
+```
+curl https://raw.github.com/ktoso/adb-bash_autocomplete/master/install.sh | sudo bash
+```
+
+
+What it actually does is this, if you'd rather paste in the full installation code.
 
 ```
 su - 
